@@ -1,0 +1,1 @@
+java -Xmx8g -cp /Users/elisa/Documents/CS388/finalProject/code/entityGrid/bin/:* entityGrid.BuildEntityGrid /Users/elisa/Documents/CS388/finalProject/corpus/19centurynovels/chunked/2000/ /Users/elisa/Documents/CS388/finalProject/corpus/19centurynovels/grids/2000/
