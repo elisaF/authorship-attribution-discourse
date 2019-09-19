@@ -2,11 +2,15 @@
 Convolutional neural network with different discourse features for authorship attribution
 
 ## Datasets
-Gutenberg dataset:
+Small Gutenberg dataset (novel-9):
 https://drive.google.com/open?id=0B-KvmJVuQcd9LU1DSGR4ZXJuWGc
+
+Large Gutenberg dataset (novel-50):  
+`python chunk_large_corpus.py data_dir save_dir chunk_min chunk_max chunk_step`
 
 IMDB dataset:
 https://drive.google.com/open?id=0B-KvmJVuQcd9LU1IRGhfcTJ4SGc
+
 
 
 ## Citation
